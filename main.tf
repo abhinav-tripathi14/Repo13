@@ -3,7 +3,7 @@ terraform {
    cloud {
     organization = "Test-Abhinav"
     workspaces {
-      name = "Test_Azure_CDN_Front_Door_116648"
+      name = "Repo13"
     }
     }
     }
